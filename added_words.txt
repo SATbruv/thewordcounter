@@ -623,3 +623,8 @@ umshini
 umshinis
 umsturz
 umsturzes
+ols
+olsen
+olsens
+olstead
+olsteads
