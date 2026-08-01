@@ -958,3 +958,6 @@ egosurfing
 egosurfs
 egosyntonic
 dasein
+beothuk
+beothukan
+beowulf
