@@ -1273,3 +1273,5 @@ ceftizoximes
 ceftriaxone
 ceftriaxones
 cefuroxime
+tpop
+tpops
