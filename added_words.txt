@@ -1275,3 +1275,10 @@ ceftriaxones
 cefuroxime
 tpop
 tpops
+plegadis
+plegaphonia
+plegia
+plegias
+plegic
+plegometer
+tgif
