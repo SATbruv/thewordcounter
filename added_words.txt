@@ -1417,3 +1417,5 @@ terotechnologies
 terotechnological
 teroldego
 terodiline
+fcomp
+fchar
