@@ -1398,3 +1398,6 @@ tzolkin
 dulat
 dulanganes
 dulaglutide
+gurish
+guric
+gurian
