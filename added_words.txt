@@ -1771,3 +1771,7 @@ daes
 daeva
 lyraid
 lyraway
+eels
+eelshop
+eelskin
+eelspear
