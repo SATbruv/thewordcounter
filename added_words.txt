@@ -1935,3 +1935,9 @@ ismaticalnesses
 ismdom
 isms
 ismy
+cosolvent
+cosolvents
+cosonant
+cosounding
+cosovereign
+cosovereignty
