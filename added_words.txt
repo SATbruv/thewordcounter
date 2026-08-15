@@ -1974,3 +1974,9 @@ reichspfennig
 reichstaler
 reichsthaler
 reicing
+achy
+achylia
+achylous
+achymous
+achyranthes
+achyrodes
